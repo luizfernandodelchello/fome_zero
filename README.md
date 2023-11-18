@@ -29,6 +29,7 @@ O dashboard foi desenvolvido utilizando as principais métricas referente a cada
   *	10 cidades com mais culinárias distintas
 
 4.	Culinárias
+   
 Nesta visão existe um filtro extra no menu a esquerda, sendo possível alterar a quantidade de exibições, por padrão ele é iniciado em 10.
   *	Top 10 restaurantes com maiores avaliações
   *	Top 10 melhores tipos de culinárias
