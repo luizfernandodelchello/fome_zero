@@ -34,7 +34,7 @@ Nesta visão existe um filtro extra no menu a esquerda, sendo possível alterar 
   *	Top 10 melhores tipos de culinárias
   *	Top 10 piores tipos de culinárias
   
-# Insights
+## Insights
   1.	Restaurantes melhores avaliados não estão concentrados em apenas uma região geográfica, inclusive são dispersos em diferentes continentes
   2.	A mesma cidade pode conter os melhores restaurantes avaliados e os piores restaurantes avaliados
   3.	O continente americano ocupa 39% da base de dados
