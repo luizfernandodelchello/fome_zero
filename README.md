@@ -41,7 +41,7 @@ Nesta visão existe um filtro extra no menu a esquerda, sendo possível alterar 
 
 ## Produto
 Dashboard online e interativo, hospedado em um serviço de Cloud para acesso em qualquer dispositivo com acesso à internet.
-O dashboard pode ser acessado através do link: 
+O dashboard pode ser acessado através do link: https://luizfernandodelchello-fome-zero.streamlit.app/ 
 
 ## Conclusão
 O objetivo do projeto é criar um dashboard para visualização de métricas da empresa. Da visão empresarial é possível visualizar a distribuição geográfica dos restaurantes, quais os melhores e piores índices de avaliações e números absolutos de itens na base de dados.
