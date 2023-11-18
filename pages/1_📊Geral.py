@@ -7,7 +7,6 @@ import math
 import numpy as np
 import folium
 
-
 #Lendo dataframe
 df = pd.read_csv('dataset/zomato.csv')
 #Criando cópia para manter preservado o original
