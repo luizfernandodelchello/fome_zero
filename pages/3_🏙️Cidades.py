@@ -1,8 +1,6 @@
 #Importando bibliotecas necessárias
 import streamlit as st
-from st_pages import Page, show_pages, add_page_title
 import pandas as pd
-import v01.functions as functions
 import math
 import numpy as np
 import plotly.express as px
