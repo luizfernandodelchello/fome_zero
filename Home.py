@@ -94,8 +94,7 @@ st.markdown(
     """
         Este dashboard foi construído como projeto do aluno no final do curso "Analisando dados com python" da plataforma Comunidade DS.
         
-        Para saber mais detalhes sobre o projeto e suas etapas, escrevi o seguinte arquivo no Medium: [Análise Descritiva — Zomato Restaurants
-](https://medium.com/@luizfernandodelchello/an%C3%A1lise-descritiva-zomato-restaurants-938266b2bdd6). 
+        Para saber mais detalhes sobre o projeto e suas etapas, escrevi o seguinte arquivo no Medium: [Análise Descritiva — Zomato Restaurants](https://medium.com/@luizfernandodelchello/an%C3%A1lise-descritiva-zomato-restaurants-938266b2bdd6). 
         
         Sinta-se a vontade para entrar em contato via LinkedIn através do perfil: [Luiz Fernando Delchello](https://www.linkedin.com/in/luiz-fernando-delchello/).
         """
